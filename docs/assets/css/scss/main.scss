@@ -1,8 +1,4 @@
+// ---- Sanitize.css ----- //
 @use "../../../../node_modules/sanitize.css/sanitize.css";
 @use "../../../../node_modules/sanitize.css/forms.css";
 @use "../../../../node_modules/sanitize.css/typography.css";
-
-body {
-  background: dodgerblue;
-  color:white;
-}
